@@ -1,0 +1,40 @@
+feature,style1,style2,t_stat,p_value,significant
+num_passes,Defensive Counterattack,High-Pressure Offense,-16.734801434803003,1.887154496339466e-42,True
+num_shots,Defensive Counterattack,High-Pressure Offense,-13.02997375883825,2.339671708233263e-29,True
+num_dumpouts,Defensive Counterattack,High-Pressure Offense,11.42649619973997,1.0088481290536955e-24,True
+num_entries_against,Defensive Counterattack,High-Pressure Offense,10.807277434443085,1.1226928706850658e-22,True
+num_zone_entries,Defensive Counterattack,High-Pressure Offense,-9.381633102782848,6.829173169232991e-18,True
+pass_success_rate,Defensive Counterattack,High-Pressure Offense,-8.564877346611949,1.0107422101774743e-15,True
+avg_carry_duration,High-Pressure Offense,Puck Control Play,-9.176650164504396,2.8407312360014394e-13,True
+num_passes,Defensive Counterattack,Puck Control Play,-8.582585591711103,7.987005056407315e-13,True
+avg_carry_duration,Defensive Counterattack,Puck Control Play,-8.839743455809923,8.368756400284638e-13,True
+avg_carry_distance,Defensive Counterattack,Puck Control Play,-7.984991067678622,7.793478067493189e-12,True
+avg_carry_distance,High-Pressure Offense,Puck Control Play,-7.644898850730546,7.560173863444781e-11,True
+num_dumpouts,Defensive Counterattack,Puck Control Play,7.061469750823875,2.1370031350472102e-10,True
+num_zone_entries,Defensive Counterattack,Puck Control Play,-6.579329034239479,3.4027238020107532e-09,True
+num_shots,Defensive Counterattack,Puck Control Play,-5.974291183818128,3.888920675541007e-08,True
+num_shots,High-Pressure Offense,Puck Control Play,4.9640494371461505,2.2931193097970993e-06,True
+num_entries_against,Defensive Counterattack,Puck Control Play,4.451931609572733,2.303930207815044e-05,True
+entry_against_success_rate,High-Pressure Offense,Puck Control Play,-4.169628866583252,6.556897406388591e-05,True
+num_assists,High-Pressure Offense,Puck Control Play,3.9788985349478305,0.00011950593298174158,True
+pass_success_rate,High-Pressure Offense,Puck Control Play,3.9263110394241845,0.00016486837432873157,True
+num_assists,Defensive Counterattack,Puck Control Play,3.685060580935458,0.000376832421400145,True
+num_entries_against,High-Pressure Offense,Puck Control Play,-3.53785683989258,0.000638035984619684,True
+num_blocks,Defensive Counterattack,Puck Control Play,3.1960936337370773,0.0018805971225444806,True
+num_blocks,Defensive Counterattack,High-Pressure Offense,2.8493221489955136,0.004744309207955488,True
+pass_success_rate,Defensive Counterattack,Puck Control Play,-2.732848674145567,0.007375618030769537,True
+entry_against_success_rate,Defensive Counterattack,High-Pressure Offense,2.6383173833703846,0.008894361272848393,True
+xg_allattempts,Defensive Counterattack,Puck Control Play,2.594878794231303,0.011007259939205098,True
+entry_against_success_rate,Defensive Counterattack,Puck Control Play,-2.4415091536647293,0.01675367863669031,True
+xg_allattempts,High-Pressure Offense,Puck Control Play,2.403091134355431,0.018260306459492517,True
+entry_success_rate,Defensive Counterattack,High-Pressure Offense,-2.337169403696805,0.02019878603427501,True
+num_passes,High-Pressure Offense,Puck Control Play,2.12381935939083,0.036683076248924903,True
+num_dumpouts,High-Pressure Offense,Puck Control Play,-1.485008451648181,0.14102122254702265,False
+entry_success_rate,High-Pressure Offense,Puck Control Play,1.331212573174571,0.18669605840423917,False
+avg_carry_distance,Defensive Counterattack,High-Pressure Offense,-1.0417694789209762,0.2985070176039984,False
+num_blocks,High-Pressure Offense,Puck Control Play,0.9669813020864794,0.33589574215763196,False
+num_zone_entries,High-Pressure Offense,Puck Control Play,0.8712505204087452,0.3855519920399354,False
+num_assists,Defensive Counterattack,High-Pressure Offense,-0.7222348094799698,0.47088193257039745,False
+avg_carry_duration,Defensive Counterattack,High-Pressure Offense,0.5619534370028516,0.5746378550331963,False
+entry_success_rate,Defensive Counterattack,Puck Control Play,-0.33626438620661026,0.737431478735652,False
+xg_allattempts,Defensive Counterattack,High-Pressure Offense,0.25095024276053357,0.8020558489255296,False
